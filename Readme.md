@@ -20,7 +20,10 @@ Connect me:
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~011236745cc3e72241">
-    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+    <img src="https://img.shields.io/badge/Upwork-brightgreen?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+  </a>
+  <a href="https://www.fiverr.com/shahood99/do-exploratory-data-analysis-and-visualization-in-python">
+    <img src="https://img.shields.io/badge/Fiverr-brightgreen?style=for-the-badge&logo=upwork&logoColor=white" alt="Fiverr Badge"/>
   </a>
 </div>
 
