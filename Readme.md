@@ -2,12 +2,16 @@
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
-<h4>
-  I am 4th year undergraduate student practicing machine learning and data science.  
-</h4>
 
+- I am currently learning and practicing machine learning / data science.
+- In my free time, I play COD and read books.
+
+<div id = "badges" align="center">
+<img src="https://komarev.com/ghpvc/?username=Shahood-Sajid&style=flat-square&color=lightgrey" alt=""/>
+</div>
 <br>
 
+Connect me: 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shahood-sajid-22b0b5212/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,16 +24,14 @@
   </a>
 </div>
 
-<div id = "badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=Shahood-Sajid&style=flat-square&color=lightgrey" alt=""/>
-</div>
+
 
 ### Languages and Tools :
 <div align="center" >
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="50" height="50"/>
 </div>
 
 
