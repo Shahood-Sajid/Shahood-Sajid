@@ -4,7 +4,7 @@
 </h4>
 
 - I am currently learning and practicing machine learning / data science.
-- In my free time, I play COD and read books.
+- In my free time, I read books and lift.
 
 <div id = "badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Shahood-Sajid&style=flat-square&color=lightgrey" alt=""/>
