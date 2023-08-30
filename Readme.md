@@ -14,7 +14,7 @@
 </div>
 <br>
 
-<img src = "https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="" width="200" height="100"/>
+<img src = "https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="" width="400" height="200"/>
 
 
 
