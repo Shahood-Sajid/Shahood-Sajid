@@ -9,12 +9,14 @@
 
 - In my free time, I read books and lift weights.
 
-<img src = "https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt=""/>
-
-<div id = "badges" align="center">
+<div id="badges" style="text-align: left;">
 <img src="https://komarev.com/ghpvc/?username=Shahood-Sajid&style=flat-square&color=lightgrey" alt=""/>
 </div>
 <br>
+
+<img src = "https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" alt="" width="200" height="100"/>
+
+
 
 Connect me: 
 <div id="badges" align="center">
