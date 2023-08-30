@@ -2,8 +2,8 @@
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
-
-- I am currently learning and practicing machine learning / data science.
+- I am currently working as a PowerBi-Trainee at Enterprise64
+- Practicing Data Science and Machine Learning
 - In my free time, I read books and lift weights.
 
 <div id = "badges" align="center">
