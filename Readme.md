@@ -55,3 +55,8 @@ Connect me:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahood-Sajid&show_icons=true&theme=vue-dark)
 
 
+CREDITS:
+
+<a href="https://www.freepik.com/free-vector/programmer-working-isometric-style_4911001.htm#query=data%20analyst%20coder&position=11&from_view=search&track=ais">Image by pikisuperstar</a> on Freepik
+
+
