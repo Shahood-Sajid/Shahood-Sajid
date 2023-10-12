@@ -4,9 +4,9 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- I am currently working as a PowerBI-Trainee at Enterprise64.
+- PowerBI-Trainee at Enterprise64.
 
-- Practicing Data Science and Machine Learning.
+- I'm the data whisperer, turning endless spreadsheets into magic! 😄.
 
 - In my free time, I read books and lift weights.
 
