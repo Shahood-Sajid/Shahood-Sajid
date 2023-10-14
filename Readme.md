@@ -6,7 +6,7 @@
 
 - PowerBI-Trainee at Enterprise64.
 
-- I'm the data whisperer, turning endless spreadsheets into magic! 😄.
+- A data whisperer, turning endless spreadsheets into magic! 😄.
 
 - In my free time, I read books and lift weights.
 
