@@ -8,7 +8,6 @@
 
 - A data whisperer, turning endless spreadsheets into magic! 😄.
 
-- In my free time, I read books and lift weights.
 
 <div id="badges" style="text-align: left;">
 <img src="https://komarev.com/ghpvc/?username=Shahood-Sajid&style=flat-square&color=lightgrey" alt=""/>
