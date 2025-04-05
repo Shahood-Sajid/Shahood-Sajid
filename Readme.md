@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 - Machine Learning Enthusiast!
-- I'm open to any freelance work. Contact me on LinkedIn or directly on Upwork
+- I'm open to freelance work in Data Science, Machine Learning, Deep Learning and Generative AI. You can contact me on LinkedIn or Upwork
 
 
 
