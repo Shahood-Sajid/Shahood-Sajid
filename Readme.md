@@ -4,8 +4,8 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- Machine Learning Enthusiast
-- 
+- Machine Learning Enthusiast!
+- I'm open to any freelance work. Contact me on LinkedIn or directly on Upwork
 
 
 
@@ -21,5 +21,3 @@ Connect with me:
     <img src="https://img.shields.io/badge/Upwork-brightgreen?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
 </div>
-
-
