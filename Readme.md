@@ -44,14 +44,6 @@ Connect me:
 </div>
 
 
-### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shahood-Sajid&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahood-Sajid&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahood-Sajid&show_icons=true&theme=vue-dark)
-
-
 CREDITS:
 
 <a href="https://www.freepik.com/free-vector/programmer-working-isometric-style_4911001.htm#query=data%20analyst%20coder&position=11&from_view=search&track=ais">Image by pikisuperstar</a> on Freepik
