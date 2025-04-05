@@ -4,9 +4,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- PowerBI Developer at Enterprise64.
-
-- A data whisperer, turning endless spreadsheets into magic! 😄.
+- Machine Learning Enthusiast
 
 
 <div id="badges" style="text-align: left;">
@@ -18,7 +16,7 @@
 
 
 
-Connect me: 
+Connect with me: 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shahood-sajid-22b0b5212/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,10 +28,5 @@ Connect me:
     <img src="https://img.shields.io/badge/Upwork-brightgreen?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
 </div>
-
-
-CREDITS:
-
-<a href="https://www.freepik.com/free-vector/programmer-working-isometric-style_4911001.htm#query=data%20analyst%20coder&position=11&from_view=search&track=ais">Image by pikisuperstar</a> on Freepik
 
 
